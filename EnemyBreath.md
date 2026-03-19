@@ -31,4 +31,5 @@ Assumptions: You have RM Unite v1.3.0 and Unity Editor v.2022.3.62f3.
 **Step 9:** On the right panel, by default it will say "mono script", click on that and instead load the EnemyBreath.cs and save.  
 
 **Step 10:** Now go back to RM Unite window (don't be confused, this is the other window besides the Unity Window). On the upper left, just below the logo of RPG Maker UNITE, there are many icons. Choose the icon immediately to the right of the play button.  
-Step 11: Click on the icon. Check on the add-on RDEnemyBreath. From here, you will now see the enemies to have a breathing animation! 😄
+
+**Step 11:** Click on the icon. Check on the add-on RDEnemyBreath. From here, you will now see the enemies to have a breathing animation! 😄
