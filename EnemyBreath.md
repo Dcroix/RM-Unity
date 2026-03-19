@@ -14,13 +14,13 @@ Step 2: Unzip the file. Go to the folder labeled: "RDEnemyBreath". From here you
 - RDEnemyBreath.cs (another C# script)
 - A folder labeled: "Resources"
 
-Step 3: Locate the folder where the game you are developing is at. Usually under C: Drive / Users / Name of Device / Name of your sample Game.  
-Step 4: From within your game's folder, navigate to Assets --> RPGMaker --> Codebase --> Add-ons  
-From here, you need to paste the "RDEnemyBreath" folder. The folder should only contain the C# Scripts. Recall that these are your EnemyBreath.cs and RDEnemyBreath.cs.  
-Step 5: Now Cut the "Resources" folder from the add-on you download and paste it on: Name of your sample Game / Assets / Resources  
-Step 6: Load RM Unite. Go to RPG Maker ---> Layout ---> RPG Maker + Unity Editor  
-Step 7: In the Unity Window as shown below, locate the RDEnemyBreath folder and click on it.  
-Step 8: In the window that opens, you will see the "RDEnemyBreath.prefab", click on it.  
+Step 3: Navigate to the said location C: Drive / Users / Name of Device / Name of your sample Game / Assets / RPG Maker / Codebase / Add-ons  
+Step 4: From here, you need to paste the "RDEnemyBreath" folder. The folder should only contain the C# Scripts. Recall that these are your EnemyBreath.cs and RDEnemyBreath.cs.  
+Step 5: This time, cut the "Resources" folder from the add-on you downloaded earlier and paste it on: Name of your sample Game / Assets / Resources  
+Step 6: Load RM Unite. Serparte RPG Maker and Unity Editor windows by going to RPG Maker ---> Layout ---> RPG Maker + Unity Editor  
+Step 7: In the Unity Window as shown below, locate the RDEnemyBreath folder and click on it. Usually under Assets / Resources / RDEnemyBreath 
+![EnemyBreath](https://github.com/Dcroix/RM-Unity/blob/main/Guide%20for%20Animated%20Enemy%20Breath.png)
+Step 8: In the window that opens, you will see the "RDEnemyBreath" (this is the prefab file), click on it.  
 Step 9: On the right panel, by default it will say "mono script", click on that and instead load the EnemyBreath.cs and save.  
 Step 10: Now go back to RM Unite window (don't be confused, this is the other window besides Unity). On the upper left, just below the logo of RPG Maker UNITE, there are many icons. Choose the icon immediately to the right of the play button.  
 Step 11: Click on the icon. Check on the add-on RDEnemyBreath. From here, you will now see the enemies to have a breathing animation! 😄
